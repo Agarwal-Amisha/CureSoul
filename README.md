@@ -16,7 +16,7 @@ To explore the website the user has to first SignUp to the website and then atte
 
 #Deployment:
 
-Deployment of the project is done using 000Webhost. It supports various languages like Php, MMySQL and many more.
+Deployment of the project is done using 000Webhost. It supports various languages like Php, MySQL and many more.
 
 
 #Demo:
